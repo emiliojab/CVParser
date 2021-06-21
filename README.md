@@ -6,3 +6,5 @@
  
  
  Database script available at Database Script.sql (MySQL Workbench 8.0)
+
+ It is an old project and it lacks some commenting and documentations. Feel free to ask me anything.
