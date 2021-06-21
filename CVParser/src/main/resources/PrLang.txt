@@ -1,0 +1,1 @@
+angularjs,node.js,android,android studio,xcode,kotlin,xamarin,ios,xml,jquery,bash,java,c++,c programming,r programming,python,c#,shell,javascript,php,powershell,sql,visual vasics,html,assembly,ruby,perl,.net framework,.net,asp.net,ado.net,css,matlab,octave,mysql,visual studio,bootstrap

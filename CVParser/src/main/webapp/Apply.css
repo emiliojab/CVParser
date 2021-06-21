@@ -1,0 +1,93 @@
+
+body{
+    background-image: url("resources/photo8.jpg");
+    min-height: 100vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}	
+.text-dark{
+    color: grey;
+    text-align: center;
+    font-size: 50px;
+}
+.lead{
+    text-align: center;
+    color: black;
+}
+
+.par{
+    text-align: left; 
+}
+.row{
+    width:100%;
+}
+.cont{
+    width:70%;
+    text-align: center;
+    margin: 0 auto;
+}
+
+hr{
+    border: 0.5px solid black;
+    width: 55%;
+}
+
+.container {
+    max-width: 450px;
+    width: 100%;
+    margin: 0 auto ;
+    position: relative;
+}
+
+
+#contact {
+    border-radius: 25px;
+    background: white;
+    padding: 25px;
+    margin: 50px 0;
+    box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.2), 0 5px 5px 0 rgba(0, 0, 0, 0.24);
+}
+
+fieldset {
+    border: medium none !important;
+    margin: 0 0 10px;
+    min-width: 100%;
+    padding: 0;
+    width: 100%;
+}
+
+#contact input[type="text"],
+#contact input[type="file"],
+#contact textarea {
+    width: 100%;
+    border: 1px solid ;
+    margin: 0 0 5px;
+    padding: 10px;
+}
+
+
+#contact textarea {
+    height: 100px;
+    max-width: 100%;
+    resize: none;
+}
+
+#contact button[type="submit"] {
+    width: 100%;
+    border: 1px solid;
+    margin: 0 0 5px;
+    padding: 10px;
+    font-size: 15px;
+}
+
+.blank-space {
+    height: 15px;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+#contact input[type="file"]{
+    cursor: pointer;
+}

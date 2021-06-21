@@ -1,0 +1,103 @@
+.text-dark{
+    color: grey;
+    text-align: center;
+    font-size: 50px;
+}
+.lead{
+    text-align: center;
+    color: black;
+}
+
+.par{
+    text-align: left; 
+}
+
+.bg-primary{
+    background-color: black;
+}
+
+body{
+    background-image: url("resources/photo8.jpg");
+    min-height: 100vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}	
+
+.q{
+    font-style: italic;
+}
+.title{
+    font-size:30px;
+    text-align: left;
+}
+hr{
+    border: 0.5px solid black;
+    width: 55%;
+}
+
+.btn-default{
+    width: 300px;
+
+}
+
+
+.container{
+    align-content: center;
+}
+
+
+.table-responsive {
+    background-color: white;
+}
+
+
+th, td {
+    overflow: hidden; 
+    text-align: center;
+    vertical-align: middle;
+}
+
+#myDiv{
+    margin-left: 20px;
+    padding: 20px 20px 20px 20px;
+}
+
+.blockquote-custom {
+    position: relative;
+    font-size: 1.1rem;
+    background-color:  #ececec;
+}
+
+.res{
+    font-size: 30px;
+    text-align: left;
+}
+
+img.center {
+    display: block;
+    margin: 0 auto;
+}
+
+.blank-space {
+    height: 15px;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.btn-link{
+    font-weight: bold;
+    color: black;
+}
+
+.btn-link:hover{
+    text-decoration: none;
+    color: #666666;
+}
+.btn-link.active,
+.btn-link:active,
+.btn-link:focus,
+.btn-link:visited{
+    text-decoration: none;
+}
